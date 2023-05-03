@@ -22,6 +22,9 @@ DB_NAME="db"
 ```js
 require('dotenv').config();
 ```
+## Instalar dotenv
+$ npm install dotenv
+
 
 ## Preparar conexión con MongoDB Atlas
 `app.js`
